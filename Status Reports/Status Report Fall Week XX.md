@@ -1,6 +1,6 @@
-# *CS 25-XXX Project Name*
+# *CS 25-315 Emotion Recogntion in Developer Meetings Using Advanced AI*
 
-**Students' Names:**
+**Students' Names: Aryan Rathi, Philip Leake, Youssef Bahloul, Theus Frase**
 
 **Mentor:**
 
