@@ -4,11 +4,6 @@
 
 The project aims to measure emotions specifically focused on software developers during their meetings. By collecting extensive voice data from developers participating in various collaborative discussions, the project will employ advanced AI techniques and Large Language Models (LLMs) to accurately identify and interpret emotional states. This innovative approach leverages the latest advancements in natural language processing and emotion recognition to provide insights into the emotional dynamics of team interactions, ultimately aiming to enhance productivity, collaboration, and overall mental health in the software development industry.
 
-The directory structure in this GitHub is to allow the project to have all its resources self-contained.
-Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
-follow in your footsteps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
-a better understanding of the problems you encountered during the development of this project. 
-
 | Folder | Description |
 |---|---|
 | Documentation |  all documentation the project team has created to describe the architecture, design, installation, and configuration of the project |
