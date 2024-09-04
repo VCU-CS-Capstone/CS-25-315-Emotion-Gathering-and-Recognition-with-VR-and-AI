@@ -12,8 +12,6 @@ The project aims to measure emotions specifically focused on software developers
 | Status Reports | Project management documentation - weekly reports, milestones, etc. |
 | scr | Source code - create as many subdirectories as needed |
 
-**Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
-
 ## Project Team
 - *Kostadin Damevski* - *CS* - Faculty Advisor/Techical Advisor
 - *Philip Leake* - *CS* - Student Team Member
