@@ -11,9 +11,11 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
-| Week 1 Status Report | Meet as advisor | Meet as a group and completed team conract | No problems to report! |
+| Week 1 Status Report | Meet with advisor | Met as a group and completed team conract | No problems to report! |
 | Week 2 Status Report | Received details on the project and suggestions moving forward | Research audio-visual emotion recognition using AI | None |
-| Week 3 Status Report | | | |
+| Week 3 Status Report | Experimented with multiple emotion recognition models,
+Conducted research on VR + Emotion recognition,
+Discovered promising datasets | | |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
