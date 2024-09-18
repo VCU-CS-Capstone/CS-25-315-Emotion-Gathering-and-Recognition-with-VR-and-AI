@@ -1,5 +1,6 @@
 
 To run code you need to to 
+create a virtual environment
 pip install numpy
 pip install opencv
 pip install mediapipe
