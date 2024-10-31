@@ -1,0 +1,210 @@
+[
+  {
+    "category": "_neutral",
+    "score": 1.6480817066621967e-07
+  },
+  {
+    "category": "browDownLeft",
+    "score": 0.02678249031305313
+  },
+  {
+    "category": "browDownRight",
+    "score": 0.5646413564682007
+  },
+  {
+    "category": "browInnerUp",
+    "score": 0.009342782199382782
+  },
+  {
+    "category": "browOuterUpLeft",
+    "score": 0.03345450013875961
+  },
+  {
+    "category": "browOuterUpRight",
+    "score": 0.00033171093673445284
+  },
+  {
+    "category": "cheekPuff",
+    "score": 4.96748862133245e-06
+  },
+  {
+    "category": "cheekSquintLeft",
+    "score": 3.548364801986281e-08
+  },
+  {
+    "category": "cheekSquintRight",
+    "score": 2.260327214287372e-08
+  },
+  {
+    "category": "eyeBlinkLeft",
+    "score": 0.2712192237377167
+  },
+  {
+    "category": "eyeBlinkRight",
+    "score": 0.6078943014144897
+  },
+  {
+    "category": "eyeLookDownLeft",
+    "score": 0.23042860627174377
+  },
+  {
+    "category": "eyeLookDownRight",
+    "score": 0.25067752599716187
+  },
+  {
+    "category": "eyeLookInLeft",
+    "score": 0.05481038987636566
+  },
+  {
+    "category": "eyeLookInRight",
+    "score": 0.08452245593070984
+  },
+  {
+    "category": "eyeLookOutLeft",
+    "score": 0.09258458763360977
+  },
+  {
+    "category": "eyeLookOutRight",
+    "score": 0.07723438739776611
+  },
+  {
+    "category": "eyeLookUpLeft",
+    "score": 0.07051903009414673
+  },
+  {
+    "category": "eyeLookUpRight",
+    "score": 0.042362652719020844
+  },
+  {
+    "category": "eyeSquintLeft",
+    "score": 0.2630315124988556
+  },
+  {
+    "category": "eyeSquintRight",
+    "score": 0.3527418375015259
+  },
+  {
+    "category": "eyeWideLeft",
+    "score": 0.00885722041130066
+  },
+  {
+    "category": "eyeWideRight",
+    "score": 0.00023740269534755498
+  },
+  {
+    "category": "jawForward",
+    "score": 6.095459684729576e-05
+  },
+  {
+    "category": "jawLeft",
+    "score": 0.0014214788097888231
+  },
+  {
+    "category": "jawOpen",
+    "score": 0.00045634133857674897
+  },
+  {
+    "category": "jawRight",
+    "score": 3.203953747288324e-05
+  },
+  {
+    "category": "mouthClose",
+    "score": 8.947313290263992e-06
+  },
+  {
+    "category": "mouthDimpleLeft",
+    "score": 0.00037687760777771473
+  },
+  {
+    "category": "mouthDimpleRight",
+    "score": 0.0039388034492731094
+  },
+  {
+    "category": "mouthFrownLeft",
+    "score": 0.1756960153579712
+  },
+  {
+    "category": "mouthFrownRight",
+    "score": 0.14903129637241364
+  },
+  {
+    "category": "mouthFunnel",
+    "score": 0.0001619409304112196
+  },
+  {
+    "category": "mouthLeft",
+    "score": 0.003794383257627487
+  },
+  {
+    "category": "mouthLowerDownLeft",
+    "score": 0.0029740072786808014
+  },
+  {
+    "category": "mouthLowerDownRight",
+    "score": 0.0007927396800369024
+  },
+  {
+    "category": "mouthPressLeft",
+    "score": 0.004599911626428366
+  },
+  {
+    "category": "mouthPressRight",
+    "score": 0.14628756046295166
+  },
+  {
+    "category": "mouthPucker",
+    "score": 0.012427045032382011
+  },
+  {
+    "category": "mouthRight",
+    "score": 3.816689786617644e-05
+  },
+  {
+    "category": "mouthRollLower",
+    "score": 0.016677070409059525
+  },
+  {
+    "category": "mouthRollUpper",
+    "score": 0.005801668390631676
+  },
+  {
+    "category": "mouthShrugLower",
+    "score": 0.11297530680894852
+  },
+  {
+    "category": "mouthShrugUpper",
+    "score": 0.02498222328722477
+  },
+  {
+    "category": "mouthSmileLeft",
+    "score": 2.1622707208734937e-05
+  },
+  {
+    "category": "mouthSmileRight",
+    "score": 3.625214958447032e-05
+  },
+  {
+    "category": "mouthStretchLeft",
+    "score": 0.0033836225047707558
+  },
+  {
+    "category": "mouthStretchRight",
+    "score": 0.0032457569614052773
+  },
+  {
+    "category": "mouthUpperUpLeft",
+    "score": 4.128564251004718e-05
+  },
+  {
+    "category": "mouthUpperUpRight",
+    "score": 0.00024779950035735965
+  },
+  {
+    "category": "noseSneerLeft",
+    "score": 3.676912683658884e-06
+  },
+  {
+    "category": "noseSneerRight",
+    "score": 2.1274655637171236e-07
+  }
+]
