@@ -8,7 +8,7 @@
    - 
 
 ## 2) Milestones to be completed next week ##
-   - 
+   - Pivoting experiment to find 
 
 ## 3) Issues, problems or concerns ##
    - 
